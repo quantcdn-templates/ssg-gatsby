@@ -1,6 +1,6 @@
 # Gatsby Template for QuantCDN
 
-[![Deploy to QuantCDN](https://www.quantcdn.io/img/quant-deploy-btn-sml.svg)](https://dashboard.quantcdn.io/projects/add/jamstack?template=gatsby)
+[![Deploy to QuantCDN](https://www.quantcdn.io/img/quant-deploy-btn-sml.svg)](https://dashboard.quantcdn.io/projects/add/jamstack/ssg-gatsby)
 
 A production-ready Gatsby template for deploying static sites on QuantCDN.
 
