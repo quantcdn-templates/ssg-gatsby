@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Gatsby build output
+public/
+
+# Gatsby cache
+.cache/
+
+# Gatsby files
+.gatsby-*
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Lock files (optional - uncomment if you want to ignore)
+# package-lock.json
+# yarn.lock

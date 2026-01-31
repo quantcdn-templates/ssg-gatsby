@@ -1,0 +1,10 @@
+[{
+    "title": "Gatsby",
+    "url": "/deploy/step-one?template=ssg-gatsby",
+    "summary": "A React-based framework for building fast static websites.",
+    "content": "Deploy Gatsby, the powerful React framework for static sites. Features GraphQL data layer, image optimization, and a rich plugin ecosystem for any data source.",
+    "categories": ["javascript", "react"],
+    "tags": ["gatsby", "react", "graphql", "static", "ssg"],
+    "template_type": "ssg",
+    "requires_db": false
+}]
